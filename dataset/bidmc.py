@@ -2,7 +2,6 @@ import torch
 from torch.utils.data import Dataset
 import lmdb
 import pickle
-import pandas as pd
 from normaliser import normaliser
 
 # --Dataset

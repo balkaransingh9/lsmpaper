@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import Dataset
-from normaliser import normaliser
+from .normaliser import normaliser
 import lmdb
 import pickle
 
